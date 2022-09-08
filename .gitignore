@@ -1,0 +1,4 @@
+# personal
+*.pyc
+libs/__pycache__/*
+*.swp
